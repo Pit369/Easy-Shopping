@@ -5,6 +5,8 @@
 <h2>💻 Tecnologias Utilizadas:</h2>
 <p>  -HTML</p>
 <p>  -CSS</p>
+<br><br>
+<h2>👀 Projeto Responsável</h2>
 <img src="https://github.com/Pit369/Easy-Shopping/blob/main/Img/PC.jpg?raw=true"/>
 <br><br>
 <img src="https://github.com/Pit369/Easy-Shopping/blob/main/Img/movil.jpg?raw=true"/>
